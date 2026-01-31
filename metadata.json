@@ -1,5 +1,5 @@
 {
-  "name": "ABI HISAN Magic Studio",
+  "name": "ABI HISAN Magic Studio 2",
   "description": "A professional AI-powered visual studio leveraging Gemini to transform product photos and merge artistic imagery with precision.",
   "requestFramePermissions": [
     "camera"
